@@ -1,0 +1,6 @@
+{
+  "name": "SmartBiz",
+  "description": "Modern Sales, Inventory, Cash Flow & Liquidity Management for Growing Businesses",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
